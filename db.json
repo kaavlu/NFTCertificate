@@ -1,8 +1,8 @@
 {
   "StudentInfo": [
     { "id": 0, "Name": "Manav", "Age": "17", "School": "CCA", "GPA": "4", "GradYear": "2023", "Major": "CS" },
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" }
+    { "id": 1, "Name": "Bob", "Age": "16", "School": "TPHS", "GPA": "3", "GradYear": "2024", "Major": "Buisness" },
+    { "id": 2, "Name": "Kim", "Age": "15", "School": "SDJA", "GPA": "2", "GradYear": "2025", "Major": "Mechanical Engineering" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
