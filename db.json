@@ -1,5 +1,5 @@
 {
-  "Student Info": [
+  "StudentInfo": [
     { "id": 0, "Name": "Manav", "Age": "17", "School": "CCA", "GPA": "4", "GradYear": "2023", "Major": "CS" },
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" }
